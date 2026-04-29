@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/rust-web-api)
+![Version](https://img.shields.io/github/package-json/v/leeydev/rust-web-api)
+
 # rust-web-api
 
 Professional Web API built with Rust.
